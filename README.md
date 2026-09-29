@@ -2,8 +2,8 @@
 
 ## Student Information
 
-**Name:** YOUR NAME
-**Roll Number:** YOUR ROLL NUMBER
+**Name:** Misba Thahseen
+**SRN:** R25EF144
 **Course:** Portfolio Building
 **Activity:** LeetCode Problem Solving
 
